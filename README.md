@@ -12,7 +12,7 @@ One of the largest retail chains in the world wants to use their vast data sourc
 However, no other information regarding stores and products are available. Can you still forecast accurately the sales values for every such product/SKU-store combination for the next 12 weeks accurately? If yes, then dive right in!
 
 ## Dataset
-![](Data_Description.png)
+![](Data _Description.png)
 
 ###### Link: https://datahack.analyticsvidhya.com/contest/janatahack-demand-forecasting/#ProblemStatement
 
