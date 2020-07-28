@@ -17,7 +17,14 @@ However, no other information regarding stores and products are available. Can y
 ###### Link: https://datahack.analyticsvidhya.com/contest/janatahack-demand-forecasting/#ProblemStatement
 
 ## Evaluation Criteria
-The evaluation metric for this competition is RMLSE*100*
+The evaluation metric for this competition is RMLSEx100
 
 ## LeaderBoard
+
+No. of Registered: 13390
+
+Public Leaderboard rank: 73
+
+Private Leaderboard rank: 65
+
 https://datahack.analyticsvidhya.com/contest/janatahack-demand-forecasting/#LeaderBoard
